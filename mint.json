@@ -1,18 +1,22 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "bitHuman Docs",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
+  },
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
+    "primary": "#A8373A",
+    "light": "#FF6764",
     "dark": "#0D9373",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#A8373A",
+      "to": "#FF6764"
     }
   },
   "topbarLinks": [
